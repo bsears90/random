@@ -1,0 +1,19 @@
+copies	card_background	active text	typeIcon	type	mainImage	title	zone9image	zone10image	cost	
+3		<p>Steal 15 gold from another player</p>				<p>Steal art</p>			<p>3</p>	
+3		<p>Steal 1 influence from another player</p>				<p>Glory Swipe</p>			<p>3</p>	
+3		<p>Decrease all sliders by 1, gain 3 influence</p>							<p>4</p>	
+2		<p>Destroy another player's asset</p>				<p><br></p>			<p>3</p>	
+2		<p>Increase threat by 1, gain 30 gold</p>				<p>Embezzlement</p>			<p>3</p>	
+1		<p>Steal another player's asset</p>							<p>5</p>	
+1		<p>Gain the top two card of the asset deck, Decrease one slider by 2</p>				<p>Abuse zoning laws</p>			<p>3</p>	
+1		<p>Draw 2 cards and discard 1 card from your hand</p>				<p>Selective Knowledge</p>	
+2		<p>Gain 3 Time tokens</p>				<p>Temporal Boost</p>	
+1		<p>Double your gold, but lose 2 influence</p>				<p>Risky Investment</p>	
+2		<p>Swap one of your resource cubes with a resource cube of your choice</p>				<p>Resource Swap</p>	
+1		<p>Choose a player, they must reveal the top 3 cards of their deck and you can choose 1 to add to your hand</p>				<p>Intel Theft</p>	
+2		<p>Discard 1 card from your hand to gain 20 gold</p>				<p>Sell Secrets</p>	
+1		<p>Choose a player, they must discard a card of their choice</p>				<p>Intimidation</p>	
+1		<p>Choose a player, they must give you a card of their choice from their hand</p>				<p>Forced Trade</p>	
+2		<p>Choose a player, they must give you 5 gold for each card in their hand</p>				<p>Debt Collection</p>	
+2		<p>Pay 5 gold to gain 1 influence</p>				<p>Influence Purchase</p>	
+1		<p>Choose a player, they must skip their next income collection</p>				<p>Income Freeze</p>	
