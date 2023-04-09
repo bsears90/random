@@ -1,0 +1,19 @@
+copies	card_background	active text	type	costText
+1		<p>Military +1</p><p>Gain 1 Orange cube</p><p>Influence +1</p>		<p>20 Gold</p>
+1		<p>Administration +1</p><p>Gain 1 Purple cube</p><p>Influence +1</p>		<p>20 Gold</p>
+1		<p>Draw 3 Cards</p><p>Influence +3</p><p>All sliders -2 </p>		<p>50 Gold</p><p>1 Orange</p><p>1 Purple</p><p>1 Black</p>
+1		<p>Gain 2 cubes of any color</p><p>Influence +2</p><p>Military -1</p>		<p>30 Gold</p>
+1		<p>Gain 2 Time tokens</p><p>Influence +1</p><p>Administration -1</p>		<p>25 Gold</p>
+1		<p>Economy +1</p><p>Gain 10 Gold</p><p>Influence +1</p>		<p>15 Gold</p>
+1		<p>Military +2</p><p>Economy -1</p><p>Influence +1</p>		<p>20 Gold</p><p>1 Orange</p>
+1		<p>Administration +2</p><p>Economy -1</p><p>Influence +1</p>		<p>20 Gold</p><p>1 Purple</p>
+1		<p>Military +3</p><p>Economy -2</p><p>Gain 2 Orange cubes</p><p>Influence +3</p>		<p>45 Gold</p>
+1		<p>Administration +3</p><p>Economy -2</p><p>Gain 2 Purple cubes</p><p>Influence +3</p>		<p>45 Gold</p>
+1		<p>Draw 4 Cards</p><p>Influence +5</p><p>All sliders -3</p>		<p>70 Gold</p><p>2 Orange</p><p>2 Purple</p><p>2 Black</p>
+1		<p>Gain 3 cubes of any color</p><p>Influence +4</p><p>Military -2</p>		<p>50 Gold</p>
+1		<p>Gain 3 Time tokens</p><p>Influence +2</p><p>Administration -2</p>		<p>40 Gold</p>
+1		<p>Economy +3</p><p>Gain 30 Gold</p><p>Influence +2</p><p>Military -1</p>		<p>30 Gold</p>
+1		<p>Military +4</p><p>Economy -3</p><p>Influence +4</p>		<p>60 Gold</p><p>2 Orange</p>
+1		<p>Administration +4</p><p>Economy -3</p><p>Influence +4</p>		<p>60 Gold</p><p>2 Purple</p>
+1		<p>All sliders +1</p><p>Gain 1 cube of each color</p><p>Influence +3</p>		<p>75 Gold</p>
+1		<p>Draw 5 Cards</p><p>Gain 3 Time tokens</p><p>Influence +6</p><p>All sliders -4</p>		<p>90 Gold</p><p>3 Orange</p><p>3 Purple</p><p>3 Black</p>
