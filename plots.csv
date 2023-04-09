@@ -1,0 +1,21 @@
+copies	card_background	active text	typeIcon	type	mainImage	title	zone9image	zone10image	cost
+3		<p>Steal 15 gold from another player</p>				<p>Steal art</p>			<p>3</p>
+3		<p>Steal 1 influence from another player</p>				<p>Glory Swipe</p>			<p>3</p>
+3		<p>Decrease all sliders by 1, gain 3 influence</p>				<p>Power Grab</p>			<p>4</p>
+2		<p>Destroy another player's asset</p>				<p>Sabotage</p>			<p>3</p>
+2		<p>Decrease one slider, gain 30 gold</p>				<p>Embezzlement</p>			<p>3</p>
+1		<p>Steal another player's asset</p>				<p>Asset Theft</p>			<p>5</p>
+1		<p>Gain the top two card of the asset deck, Decrease one slider by 2</p>				<p>Abuse zoning laws</p>			<p>3</p>
+2		<p>Swap an asset with another player</p>				<p>Asset Swap</p>			<p>4</p>
+2		<p>Remove a time token from a plot</p>				<p>Accelerate Plans</p>			<p>3</p>
+1		<p>Exchange one slider with another player</p>				<p>Political Intrigue</p>			<p>5</p> 
+2		<p>Force a player to discard half their gold (rounded up)</p>				<p>Highway Robbery</p>			<p>4</p>
+1		<p>Swap rival cards with another player</p>				<p>Rival Roulette</p>			<p>5</p>
+2		<p>Choose a player: they must choose between discarding 3 cards or losing 3 influence</p>				<p>Blackmail</p>			<p>4</p>
+1		<p>All players, except you, must discard a card at random</p>				<p>Intel Leak</p>			<p>5</p>
+2		<p>Decrease a kingdom slider by 1; the player of your choice loses 2 influence</p>				<p>Political Scandal</p>			<p>4</p>
+1		<p>Choose a player: they must match their influence to yours</p>				<p>Manipulation</p>			<p>6</p>
+2		<p>Choose a player: they cannot use their assets during their next active phase</p>				<p>Asset Freeze</p>			<p>4</p>
+1		<p>Choose a player: they cannot participate in the next bidding phase</p>				<p>Bidding Ban</p>			<p>5</p>
+1		<p>Choose a player: they must skip their next plot phase</p>				<p>Conspiracy Suppression</p>			<p>6</p>
+2		<p>Choose a player: they must give you one of their resource cubes (if they have any)</p>				<p>Resource Extortion</p>			<p>4</p>
